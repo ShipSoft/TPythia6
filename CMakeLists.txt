@@ -1,5 +1,6 @@
 # Create a library called "libtpythia6”
 
+cmake_minimum_required(VERSION 3.15.7)
 
 project(TPythia6)
 
